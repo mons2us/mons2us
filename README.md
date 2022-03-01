@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a student interested in ML/DL/Data Analysis <br>
+Welcome to my git! <br>
 
 <!--
 **mons2us/mons2us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
