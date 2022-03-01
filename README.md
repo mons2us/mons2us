@@ -1,4 +1,5 @@
-I'm a student interested in ML/DL/Data Analysis <br>
+### 🤔 I am
+A student interested in ML/DL/Data Analysis <br>
 Welcome to my git! <br>
 
 ### Skills & Language
