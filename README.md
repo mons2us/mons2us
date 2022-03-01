@@ -1,6 +1,7 @@
-### Hi there 👋
 I'm a student interested in ML/DL/Data Analysis <br>
 Welcome to my git! <br>
+
+<img src="https://img.shields.io/badge/Android-3776AB?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **mons2us/mons2us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
